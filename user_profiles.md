@@ -5,3 +5,4 @@
 <li>Monthly</li>
 <li>Quarterly</li>
 <li>Flying</li>
+<li>Loyal</li>

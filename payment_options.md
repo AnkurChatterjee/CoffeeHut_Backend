@@ -5,3 +5,4 @@
 3.  Net Banking
 4.  UPI
 5.  Credit Card
+6.  Coffehut_Wallet
